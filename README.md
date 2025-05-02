@@ -20,5 +20,5 @@ cd laplaciano-sharpen-streamlit
 
 
 
-![Exemplo do app](exemplo.jpg)
+![Exemplo do app](gatinho2.png)
 
