@@ -2,6 +2,8 @@
 
 Uma aplicação interativa feita com [Streamlit](https://streamlit.io/) para aplicar **realce com filtro Laplaciano** em imagens (JPG ou PNG). Permite ajustar a intensidade do filtro via slider.
 
+![Exemplo do app](gatinho2.png)
+
 ## O que ela faz?
 
 - Faz upload de uma imagem
@@ -20,5 +22,4 @@ cd laplaciano-sharpen-streamlit
 
 
 
-![Exemplo do app](gatinho2.png)
 
